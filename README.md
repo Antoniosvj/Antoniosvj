@@ -21,3 +21,5 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <a href="https://www.linkedin.com/in/antoniosvj" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Snake animation](https://github.com/Antoniosvj/Antoniosvj/blob/output/github-contribuition-grid-snake.svh)
