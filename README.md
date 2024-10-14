@@ -1,5 +1,3 @@
-<img src="baner.gif" width="500px" align="right">
-
 # Seja Bem vindo ao meu GitHub!
 ---
 ## Quem sou?
