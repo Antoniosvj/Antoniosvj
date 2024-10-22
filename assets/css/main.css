@@ -1,0 +1,149 @@
+/*** START ***/
+#start {
+    display: flex;
+    flex-direction: column;
+}
+
+.photo {
+    position: absolute;
+    top: 65px;
+    right: 10px;
+}
+
+.photo img {
+    border-radius: 50%;
+    width: 20vh;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+/*** PROJETOS ***/
+
+.project{
+    display: flex;
+    flex-direction: column;
+}
+
+.project .project-item{
+    width: 90vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1rem auto;
+    border: 1px solid var(--border-color);
+    border-radius: .5rem;
+    padding: .6rem;
+    gap: .5rem;
+}
+
+.project-item h3{
+    margin: 1rem auto;
+}
+
+.project-item img{
+    width: 90%;
+    border-radius: 8px;
+    box-shadow: 2px 4px 30px 0px var(--primary-color);
+    -webkit-box-shadow: 2px 4px 30px 0px var(--primary-color);
+    -moz-box-shadow: 2px 4px 30px 0px var(--primary-color);
+}
+
+.project-item .link{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.project-item .link a i{
+    font-size: 1.5rem;
+}
+
+/*** skills ***/
+
+#skills small{
+    display: none;
+}
+
+.display-none{
+    display: none;
+}
+.display-block{
+    display: none;
+}
+
+.skills-icon{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.skills-icon img{
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+
+@media (min-width: 768px) {
+    /*** START ***/
+    #start {
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+
+    .photo {
+        position: relative;
+        top: 0;
+        margin-left: 1rem;
+    }
+
+    .photo img {
+        width: 30vh;
+        ;
+    }
+
+    /*** PROJETOS ***/
+    .project{
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .project .project-item{
+        width: 350px;
+        margin: 1rem auto;
+    }
+
+    .project-item .link a i{
+        font-size: 2rem;
+    }
+
+    /*** skill ***/
+    #skills small{
+        display: block;
+        color: var(--text-color);
+    }
+
+    .display-block{
+        display: block;
+    }
+
+    .skills-icon img{
+        width: 70px;
+        height: 70px;
+        transition: 1s;
+    }
+
+    .skills-icon img:hover{
+        width: 80px;
+        height: 80px;
+    }
+}
