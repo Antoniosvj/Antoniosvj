@@ -9,7 +9,7 @@ Quando adolescente fiz um curso de montagem e manutenção de computador, porém
 ## Tecnologias que ja estudei e estou estudando no momento?
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-    <img src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg)" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
 
    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
@@ -23,6 +23,8 @@ Quando adolescente fiz um curso de montagem e manutenção de computador, porém
 
 ---
 ## Quais tecnologias ainda quero estudar?
+
+Atualmente busco me aprofundar em java para me aprimorar o desenvolvimento backend.
 
 ---
 
